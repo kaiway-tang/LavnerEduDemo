@@ -9,3 +9,5 @@ https://docs.google.com/presentation/d/1Npdh4MU2M5njk9p9Ay9GUdfu6wHU5A9RA2__tS5m
 
 
 *This demo was created for my application to Lavner Education as a programming/game design instructor.
+
+(Result: Accepted, but conflicting schedule)
